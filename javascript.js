@@ -44,8 +44,8 @@ var quotes1 = ["Blank", "The newest episode of PST is about how Ed used to ", "A
 console.log(quotes1)
 var quotes2 = ["Blank","watch Face/Off with ","get ","start a ","get ","get ","use ","get half-cirumcised by ","gobble "]
 var quotes3 = ["Blank","Ed's ex","David","An amputee","Smite Car 3","DoubleJ","Kuzenbo","Hbomberguy"]
-var quotes2a = ["Blank"," "," to shit in a Nutella jar "," themed pedophile ring "," addicted to crack "," tattooed on his thigh "," as a catheter "," ","'s toes "]
-var quotes4 = ["Blank","<br/>and that's how he woke up in France.","<br/>and then he is banished to the punta cana airport for eternity.","<br/>and that's why Xbalanque can't read.","at the ScreenWave media booth.","<br/>and thats why David hates bread.","with Viper the Rapper.","at the Punta Cana airport.","<br/>and that's why Ed hates cheese.","in a fursuit."]
+var quotes2a = ["Blank",""," to shit in a Nutella jar"," themed pedophile ring"," addicted to crack"," tattooed on his thigh"," as a catheter","","'s toes"]
+var quotes4 = ["Blank","<br/>and that's how he woke up in France.","<br/>and then he is banished to the punta cana airport for eternity.","<br/>and that's why Xbalanque can't read."," at the ScreenWave media booth.","<br/>and thats why David hates bread."," with Viper the Rapper."," at the Punta Cana airport.","<br/>and that's why Ed hates cheese."," in a fursuit."]
 var quotes1a = ["Blank","","'","",""]
 
 //date
